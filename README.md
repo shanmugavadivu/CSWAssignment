@@ -11,7 +11,7 @@ FILES INSIDE CSWAssignment.zip
 HOW TO RUN - Run the below command
 java -jar jsonxmlconverter.jar {path of inputjson.txt} {path of outputxml.txt}
 example:
-java -jar jsonxmlconverter.jar C:\Users\Priyanga\Desktop\CSWAssignment\inputjson.txt C:\Users\Priyanga\Desktop\CSWAssignment\outputxml.txt
+java -jar jsonxmlconverter.jar C:\Desktop\CSWAssignment\inputjson.txt C:\Desktop\CSWAssignment\outputxml.txt
 Check outputxml.txt for the result xml
 USECASES COVERED
   - Single value json (Integer, String, Boolean, Null)
