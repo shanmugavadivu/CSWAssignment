@@ -1,0 +1,21 @@
+javac -d . -classpath C:\Users\Priyanga\Downloads\json-simple\json-simple-1.1.jar
+ C:\Users\Priyanga\eclipse-workspace\CSWASSIGNMENT\com\shanmugavadivu\project\jsontoxml\*.java
+
+1) Create manifest file 
+echo Main-Class: com.shanmugavadivu.project.jsontoxml.XMLJSONConverterMain >manifest.txt
+
+2) Create jar with whole package
+jar cfm finalexecutable.jar manifest.txt com\*
+
+
+- Final executable jar file with compiled classes using jdk version 1.7 is provided under the name "finalexecutable.jar"
+- Run the executable jar using below command
+java -jar finalexecutable.jar
+
+- Dependency jar used - json-simple-1.1.jar
+
+- 
+
+
+
+
