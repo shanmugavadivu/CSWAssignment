@@ -1,2 +1,0 @@
-Main-Class: com.shanmugavadivu.project.jsontoxml.XMLJSONConverterMain 
-Class-Path: json-simple-1.1.jar
