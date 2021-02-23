@@ -1,7 +1,7 @@
 # CSWAssignment
 Round 2 Assignment
 
-FILES INSIDE ZIP
+FILES INSIDE CSWAssignment.zip
 - CSWASSIGNMENT –  folder consists of implemented Java files inside the package com.shanmugavadivu.project.jsontoxml
 - jsonxmlconverter.jar - Final Executable jar with compiled classes of the project (compiled with jdk 1.7 version)
 - json-simple-1.1.jar - Dependency jar
